@@ -1,0 +1,11 @@
+# basic options
+title: Test-blog
+author: Smart Guy
+email: your-email@domain.com
+description: An awesome blog
+twitter_username: potus
+github_username:  engagedmanagement
+
+# Build settings
+markdown: kramdown
+theme: minima
